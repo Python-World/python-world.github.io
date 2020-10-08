@@ -21,7 +21,13 @@
         -ms-user-select: none;
         user-select: none;
       }
-
+      a{
+        color: black;
+      }
+      a:hover{
+        text-decoration: none;
+        color: black;
+      }
       @media (min-width: 768px) {
         .bd-placeholder-img-lg {
           font-size: 3.5rem;
@@ -29,14 +35,23 @@
       }
     </style>
   </head>
+
   <body>
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
-  <h5 class="my-0 mr-md-auto font-weight-normal">Python World</h5>
-</div>
+      <a href="index.html">
+        <h5 class="my-0 mr-md-auto font-weight-normal">Python World</h5>
+      </a>
+    </div>
 
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <h1 class="display-4">Our Projects</h1>
-  <p class="lead">Following are the Open Source projects related to our Organisation.</p>
+  <h1 class="display-4">
+    <a href="https://github.com/Python-World/python-world.github.io" target="_blank">
+      Our Projects
+    </a>
+  </h1>
+  <p class="lead">
+    Following are the Open Source projects related to our Organisation.
+  </p>
 </div>
 
 <div class="container">
