@@ -18,3 +18,7 @@ Following are the Open Source projects related to our Organisation:
 - [GitProfile](https://github.com/Python-World/GitProfile): Simple utility to analyze Github public profile.
 - [Joble](https://github.com/Python-World/Joble): This Platform Search Thousands Of Job Boards In Different Technologies From Over The World.
 - [Snippets](https://github.com/Python-World/snippets): A List of Helpful Programming Snippets.
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
